@@ -1,3 +1,3 @@
-# Rebirth of the Night: Sanity Check Edition
+# Rebirth of the Night: SCE
 
 RotN, but for multiplayer
